@@ -300,6 +300,24 @@ Each commit message clearly describes the changes made and follows best practice
 
 GitHub Repository: https://github.com/Guna-meda/PES2UG24CS172-pes-vcs/new/main
 
+
+**Note:** Replace with your actual repository URL after pushing to GitHub.
+
+---
+
+## Important: Running Commands
+
+All `pes` commands require the `PES_AUTHOR` environment variable to be set. Before running any commands:
+
+```bash
+source .env
+```
+
+Or run commands with the environment variable inline:
+```bash
+export PES_AUTHOR="Gunavathi <PES2UG24CS172>" && ./pes [command]
+```
+
 ---
 
 ## Declaration
