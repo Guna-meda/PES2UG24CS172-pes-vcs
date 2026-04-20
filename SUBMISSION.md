@@ -298,7 +298,7 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: https://github.com/Guna-meda/PES2UG24CS172-pes-vcs/new/main
+GitHub Repository: https://github.com/Guna-meda/PES2UG24CS172-pes-vcs
 
 
 **Note:** Replace with your actual repository URL after pushing to GitHub.
