@@ -50,7 +50,7 @@ Implemented tree serialization and construction from index, supporting nested di
 
 **Screenshot 2B: Raw tree object format**
 <!-- Attach: Screenshots/2B_tree_raw.png -->
-<img width="940" height="198" alt="image" src="https://github.com/user-attachments/assets/dc71fe37-649b-4a5e-99c5-e30806e99600" />
+<img width="906" height="198" alt="image" src="https://github.com/user-attachments/assets/03ff6c48-7c68-4ebf-9eb3-cc6e8a805167" />
 
 ---
 
